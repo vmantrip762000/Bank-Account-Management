@@ -1,25 +1,26 @@
 # Bank-Account-Management
 
-## Aim: Simulate user account in a bank with simple deposit, withdrawal and balance functions after creating a bank account.
+### Aim: Simulate user account in a bank with simple deposit, withdrawal and balance functions after creating a bank account.
 
-## Tools used: 
+### Tools used: 
 Java: java version "21.0.2" 2024-01-16 LTS
 Java(TM) SE Runtime Environment (build 21.0.2+13-LTS-58)
 
-## Proces flow of account creation: Main -> CreateAccount -> Menu -> Account 
-## Process flow of deposit: Menu -> deposit -> amount
-## Process flow of withdrawal: Menu -> withdrawal -> amount
+### Process flows
+Proces flow of account creation: Main -> CreateAccount -> Menu -> Account 
+Process flow of deposit: Menu -> deposit -> amount
+Process flow of withdrawal: Menu -> withdrawal -> amount
 
 
-## Result: Implemented Account creation along with deposit, withdrawal and balance tracking using Java module
+### Result: Implemented Account creation along with deposit, withdrawal and balance tracking using Java module
 
-## Directions for users:
+### Directions for users:
 
 1. Unzip BankManagementSystem.zip and run the application from Main.java
 2. Follow the output in Terminal window to peroform executable functions on a user created bank account.
 
 
-## Modules and their functions:
+### Modules and their functions:
 A. Main.java:
 1. Main class for the bank management system
 2. Initialized ArrayList to store accounts
